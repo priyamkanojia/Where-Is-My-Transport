@@ -68,7 +68,7 @@ class _Home_mapboxState extends State<Home_mapbox> with SingleTickerProviderStat
           zoom: 13.0
         ),
         layers:[TileLayerOptions(
-          urlTemplate: "https://api.mapbox.com/styles/v1/siddporwal/ck6k79um50aj81imuflm460is.html?fresh=true&title=view&access_token=pk.eyJ1Ijoic2lkZHBvcndhbCIsImEiOiJjazZqbTc1enUwYXNuM29td2RxYWZ0MTFvIn0.4NRDsh_hOI1Kg1u9bxRNyg",
+         
 
 
 
